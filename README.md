@@ -1,1 +1,1 @@
-# Wordle-C
+Directory for Project 3
